@@ -1,4 +1,13 @@
 # bitcoinops.github.io
+
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
 The Bitcoin Operations Technology Group (Optech) works to bring the best
 open source technologies and techniques to Bitcoin-using businesses in
 order to lower costs and improve customer experiences.
