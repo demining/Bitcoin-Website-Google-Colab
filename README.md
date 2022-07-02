@@ -121,3 +121,10 @@ directory and various tests will be run.
 
 If you would like to contribute to the Bitcoin Optech project, please review the
 [contributing guidelines](CONTRIBUTING.md).
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
